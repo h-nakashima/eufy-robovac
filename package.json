@@ -1,6 +1,6 @@
 {
 	"name": "eufy-robovac",
-	"version": "1.4.3",
+	"version": "1.4.4",
 	"description": "NodeJS library to control Eufy RoboVac",
 	"main": "dist/index.js",
 	"types": "dist/index.d.js",
@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/joshstrange/eufy-robovac.git"
+		"url": "git+https://github.com/h-nakashima/eufy-robovac.git"
 	},
 	"keywords": [
 		"eufy",
@@ -22,9 +22,9 @@
 	"author": "Josh Strange",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/joshstrange/eufy-robovac/issues"
+		"url": "https://github.com/h-nakashima/eufy-robovac/issues"
 	},
-	"homepage": "https://github.com/joshstrange/eufy-robovac#readme",
+	"homepage": "https://github.com/h-nakashima/eufy-robovac#readme",
 	"dependencies": {
 		"tuyapi": "^5.3.1"
 	},
