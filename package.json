@@ -5,6 +5,7 @@
 	"main": "dist/index.js",
 	"types": "dist/index.d.js",
 	"scripts": {
+		"prepare": "npm run build",
 		"build": "rimraf ./dist && tsc",
 		"prepublishOnly": "npm run build",
 		"demo": "node demo.js"
