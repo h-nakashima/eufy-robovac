@@ -1,5 +1,6 @@
 # eufy-robovac
-NodeJS library to control Eufy RoboVac. This library relies heavily on [TuyAPI](https://github.com/codetheweb/tuyapi) for communicating with the RoboVac and would not be possible without the [eufy_robovac](https://github.com/mitchellrj/eufy_robovac) repo by [mitchellrj](https://github.com/mitchellrj) as reference.
+NodeJS library to control Eufy RoboVac. This library relies heavily on [TuyAPI](https://github.com/codetheweb/tuyapi) for communicating with the RoboVac and would not be possible without the [eufy_robovac](https://github.com/mitchellrj/eufy_robovac) repo by [mitchellrj](https://github.com/mitchellrj) as reference.  
+This repository is forked from [original repository](https://github.com/apexad/eufy-robovac) to use [the repository](https://github.com/h-nakashima/homebridge-eufy-robovac).
 
 
 ## Required Information
